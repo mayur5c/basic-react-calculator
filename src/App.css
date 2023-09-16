@@ -25,3 +25,7 @@ box-shadow: -30px 20px 100px 10px rgba(251, 24, 78, 0.47),30px -20px 100px -5px 
   border: 5px solid #ffffff;
   padding: 3% 3%;
 }
+
+#error {
+  color: red;
+}

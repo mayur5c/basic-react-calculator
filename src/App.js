@@ -76,7 +76,7 @@ const Calculator = () => {
         <button className="btn" onClick={handleDivision}>/</button>
       </div>
       <div>
-        <p>{error}</p>
+        <p id="error">{error}</p>
         <input type="text" placeholder='Result' value={result} disabled />
       </div>
       <button onClick={clear}>Clear</button>
